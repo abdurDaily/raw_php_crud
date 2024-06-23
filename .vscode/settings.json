@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 23,
+  "editor.wordWrap": "off",
+  "editor.tabSize": 4,
+  "debug.console.wordWrap": true,
+  "editor.find.addExtraSpaceOnTop": true
+}
